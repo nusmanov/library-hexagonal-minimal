@@ -1,7 +1,7 @@
 # Library 
 > written in *Hexagonal (Ports & Adapters) Architecture*
 
-![Master Branch](https://github.com/nusmanov/library-hexagonal-minimlal/workflows/Main%20Branch/badge.svg?branch=main) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=nusmanov_library-hexagonal-minimal&metric=alert_status)](https://sonarcloud.io/dashboard?id=nusmanov_library-hexagonal-minimmal) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=nusmanov_library-hexagonal-minimal&metric=coverage)](https://sonarcloud.io/dashboard?id=nusmanov_library-hexagonal-minimal) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Main Branch](https://github.com/nusmanov/library-hexagonal-minimlal/workflows/Main%20Branch/badge.svg?branch=main) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=nusmanov_library-hexagonal-minimal&metric=alert_status)](https://sonarcloud.io/dashboard?id=nusmanov_library-hexagonal-minimmal) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=nusmanov_library-hexagonal-minimal&metric=coverage)](https://sonarcloud.io/dashboard?id=nusmanov_library-hexagonal-minimal) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This is a small application that provides basic REST endpoints for managing users. 
 
